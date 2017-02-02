@@ -16,6 +16,7 @@ header {
 .link {
 	padding-right: 16px
 }
+
 .logo {
 	display: inline-block;
 	color: black;
@@ -29,5 +30,14 @@ header {
 a {
 	text-decoration: none;
 	color: rebeccapurple;
+}
+
+.search-section input {
+	font-size: 17px;
+	width: 400px;
+	line-height: 30px;
+	height: 30px;
+	border: 1px solid lightgrey;
+	
 }
 
