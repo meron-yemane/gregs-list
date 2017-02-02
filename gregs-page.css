@@ -1,0 +1,33 @@
+header {
+	width: 100%;
+	position: fixed;
+	border: 1px solid lightgrey;
+	background-color: lightgrey;
+	top: 0;
+	left: 0;
+}
+
+.nav-links {
+	display: inline-block;
+	font-size: 18pt;
+	padding-left: 980px;
+}
+
+.link {
+	padding-right: 16px
+}
+.logo {
+	display: inline-block;
+	color: black;
+	padding-left: 15px;
+}
+
+.logo h1 {
+	font-size: 18pt;
+}
+
+a {
+	text-decoration: none;
+	color: rebeccapurple;
+}
+
