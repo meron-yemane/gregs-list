@@ -32,12 +32,34 @@ a {
 	color: rebeccapurple;
 }
 
+a:hover {
+	text-decoration: underline;
+}
+
 .search-section input {
+	margin-top: 120px;
 	font-size: 17px;
 	width: 400px;
 	line-height: 30px;
 	height: 30px;
 	border: 1px solid lightgrey;
-	
+	display: inline;
+	padding-right: 5px;
+	padding-left: 8px;
+	border-radius: 3px;
 }
+
+.search-section .image {
+	width: 30px;
+}
+
+.search-section .search-box {
+	margin-left: 100px;
+	width: 600px;
+}
+
+
+
+
+
 
