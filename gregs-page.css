@@ -7,10 +7,14 @@ header {
 	left: 0;
 }
 
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
 .nav-links {
 	display: inline-block;
 	font-size: 18pt;
-	padding-left: 980px;
+	padding-left: 970px;
 }
 
 .link {
@@ -21,6 +25,7 @@ header {
 	display: inline-block;
 	color: black;
 	padding-left: 15px;
+
 }
 
 .logo h1 {
@@ -32,7 +37,7 @@ a {
 	color: rebeccapurple;
 }
 
-a:hover {
+.nav-links a:hover, .listings a:hover {
 	text-decoration: underline;
 }
 
