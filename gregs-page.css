@@ -87,7 +87,28 @@ a:hover {
 	border: 1px solid lightgrey;
 	padding: 6px 24px 6px 24px;
 	font-size: 17pt;
+}
 
+.listings ul {
+	margin-top: 110px;
+	margin-left: 60px;
+	font-size: 17pt;
+	list-style-type: none;  
+}
+
+.listings li {
+	padding-bottom: 15px;
+}
+
+.job-description {
+	margin-right: 20px;
+	margin-left: 20px;
+	color: blue;
+	font-weight: bold;
+}
+
+.date, .location {
+	color: #989898;
 }
 
 
