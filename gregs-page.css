@@ -58,6 +58,37 @@ a:hover {
 	width: 600px;
 }
 
+.nav-pages {
+	font-size: 17pt;
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	display: inline-block;
+	font-size: 0;
+}
+
+.prev-next {
+	border: 1px solid lightgrey;
+	padding: 6px 17px 6px 17px;
+	font-size: 17pt;
+}
+
+.prev-next .prev {
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.prev-next .next {
+	border-bottom-right-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.pages-display {
+	border: 1px solid lightgrey;
+	padding: 6px 24px 6px 24px;
+	font-size: 17pt;
+
+}
 
 
 
